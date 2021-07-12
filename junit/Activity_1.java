@@ -1,11 +1,9 @@
 package training;
 
-import static org.testng.Assert.assertEquals;
 
-import java.util.ArrayList;
-
-import org.testng.annotations.Test;
-import org.testng.annotations.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.BeforeAll;
+import org.junit.jupiter.api.Test;
 
 
 public class Activity_1 {
